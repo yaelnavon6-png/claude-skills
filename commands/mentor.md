@@ -56,11 +56,7 @@ Wait for her answer before doing anything else.
 - Save to Notion at the end
 
 ### If mode = SQL practice:
-- Get the question from her
-- Explain the rules: think out loud, no code yet, one step at a time
-- Ask: "מה צריך להיות בשורה הראשונה של התוצאה?" — always start with the output
-- Then: "מי האוכלוסיה?"
-- Guide step by step. If she gets stuck → hint only, not the answer.
+- Trigger the query-builder skill immediately — it will take over the session from here.
 
 ### If mode = business thinking:
 - Pick a concept or scenario together
