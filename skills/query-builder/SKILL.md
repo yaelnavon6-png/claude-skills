@@ -59,6 +59,10 @@ Ask:
 - "האם ה-business logic בחלק 1 תואם להבנה שלך?"
 - "יש משהו בשאילתה שתרצי שאסביר?"
 
+## Step 4 — Hand back to Mentor
+
+When Yael says she's done (e.g., "סיימנו", "תודה", "bye") — hand back to the Mentor skill to close the session: summary + Notion entry.
+
 ---
 
 ## Important behaviors
