@@ -49,7 +49,7 @@ For each criterion:
 
 ### Part 3 — Full query
 - BigQuery CTEs with a one-line comment above each CTE
-- Use `SAFE_DIVIDE` for division, `DATE_TRUNC` / `EXTRACT` for dates, `TIMESTAMP_DIFF` for time differences
+- If the query requires a division or average, use `SAFE_DIVIDE` instead of `/`
 
 ---
 
